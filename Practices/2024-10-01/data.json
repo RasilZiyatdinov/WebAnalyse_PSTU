@@ -1,0 +1,298 @@
+{
+    "wikipedia": {
+        "continue": {
+            "plcontinue": "2039887|0|Perm_Oblast",
+            "continue": "||extracts|images"
+        },
+        "warnings": {
+            "extracts": {
+                "*": "HTML may be malformed and/or unbalanced and may omit inline images. Use at your own risk. Known problems are listed at https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TextExtracts#Caveats."
+            }
+        },
+        "query": {
+            "pages": {
+                "2039887": {
+                    "pageid": 2039887,
+                    "ns": 0,
+                    "title": "Perm",
+                    "extract": "<p><b>Perm</b> or <b>PERM</b> may refer to:\n</p>\n\n",
+                    "images": [
+                        {
+                            "ns": 6,
+                            "title": "File:Disambig gray.svg"
+                        },
+                        {
+                            "ns": 6,
+                            "title": "File:Wiktionary-logo-en-v2.svg"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "ns": 0,
+                            "title": "24K Magic (album)"
+                        },
+                        {
+                            "ns": 0,
+                            "title": "Great Perm"
+                        },
+                        {
+                            "ns": 0,
+                            "title": "P.E.R.M."
+                        },
+                        {
+                            "ns": 0,
+                            "title": "PERM (computer)"
+                        },
+                        {
+                            "ns": 0,
+                            "title": "Perm, Ontario"
+                        },
+                        {
+                            "ns": 0,
+                            "title": "Perm, Russia"
+                        },
+                        {
+                            "ns": 0,
+                            "title": "Perm (hairstyle)"
+                        },
+                        {
+                            "ns": 0,
+                            "title": "Perm (unit)"
+                        },
+                        {
+                            "ns": 0,
+                            "title": "Perm Governorate"
+                        },
+                        {
+                            "ns": 0,
+                            "title": "Perm Krai"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "wikidata": {
+        "searchinfo": {
+            "search": "Perm"
+        },
+        "search": [
+            {
+                "id": "Q5400",
+                "title": "Q5400",
+                "pageid": 6346,
+                "concepturi": "http://www.wikidata.org/entity/Q5400",
+                "repository": "wikidata",
+                "url": "//www.wikidata.org/wiki/Q5400",
+                "display": {
+                    "label": {
+                        "value": "Perm Krai",
+                        "language": "en"
+                    },
+                    "description": {
+                        "value": "krai and federal subject in Volga Federal District, Russia",
+                        "language": "en"
+                    }
+                },
+                "label": "Perm Krai",
+                "description": "krai and federal subject in Volga Federal District, Russia",
+                "match": {
+                    "type": "label",
+                    "language": "en",
+                    "text": "Perm Krai"
+                }
+            },
+            {
+                "id": "Q915",
+                "title": "Q915",
+                "pageid": 1239,
+                "concepturi": "http://www.wikidata.org/entity/Q915",
+                "repository": "wikidata",
+                "url": "//www.wikidata.org/wiki/Q915",
+                "display": {
+                    "label": {
+                        "value": "Perm",
+                        "language": "en"
+                    },
+                    "description": {
+                        "value": "city in Russia",
+                        "language": "en"
+                    }
+                },
+                "label": "Perm",
+                "description": "city in Russia",
+                "match": {
+                    "type": "label",
+                    "language": "en",
+                    "text": "Perm"
+                }
+            },
+            {
+                "id": "Q1193907",
+                "title": "Q1193907",
+                "pageid": 1137856,
+                "concepturi": "http://www.wikidata.org/entity/Q1193907",
+                "repository": "wikidata",
+                "url": "//www.wikidata.org/wiki/Q1193907",
+                "display": {
+                    "label": {
+                        "value": "link rot",
+                        "language": "en"
+                    },
+                    "description": {
+                        "value": "phenomenon in which URLs gradually tend to cease functioning",
+                        "language": "en"
+                    }
+                },
+                "label": "link rot",
+                "description": "phenomenon in which URLs gradually tend to cease functioning",
+                "match": {
+                    "type": "alias",
+                    "language": "en",
+                    "text": "permanently offline"
+                },
+                "aliases": [
+                    "permanently offline"
+                ]
+            },
+            {
+                "id": "Q104664889",
+                "title": "Q104664889",
+                "pageid": 100098921,
+                "concepturi": "http://www.wikidata.org/entity/Q104664889",
+                "repository": "wikidata",
+                "url": "//www.wikidata.org/wiki/Q104664889",
+                "display": {
+                    "label": {
+                        "value": "permanently closed",
+                        "language": "en"
+                    },
+                    "description": {
+                        "value": "state that indicates a building, installation, park, etc. is not accessible because it has been permanently shut down or shut off",
+                        "language": "en"
+                    }
+                },
+                "label": "permanently closed",
+                "description": "state that indicates a building, installation, park, etc. is not accessible because it has been permanently shut down or shut off",
+                "match": {
+                    "type": "label",
+                    "language": "en",
+                    "text": "permanently closed"
+                }
+            },
+            {
+                "id": "Q21286738",
+                "title": "Q21286738",
+                "pageid": 23333677,
+                "concepturi": "http://www.wikidata.org/entity/Q21286738",
+                "repository": "wikidata",
+                "url": "//www.wikidata.org/wiki/Q21286738",
+                "display": {
+                    "label": {
+                        "value": "Wikimedia permanent duplicate item",
+                        "language": "en"
+                    },
+                    "description": {
+                        "value": "this item duplicates another item, the two can't be merged, as one Wikimedia project includes 2 pages, e.g. in different scripts or languages. Add properties other than P2959 (permanent duplicated item) and sitelinks for other wikis to the other item",
+                        "language": "en"
+                    }
+                },
+                "label": "Wikimedia permanent duplicate item",
+                "description": "this item duplicates another item, the two can't be merged, as one Wikimedia project includes 2 pages, e.g. in different scripts or languages. Add properties other than P2959 (permanent duplicated item) and sitelinks for other wikis to the other item",
+                "match": {
+                    "type": "alias",
+                    "language": "en",
+                    "text": "permanent duplicate item"
+                },
+                "aliases": [
+                    "permanent duplicate item"
+                ]
+            },
+            {
+                "id": "Q181011",
+                "title": "Q181011",
+                "pageid": 180216,
+                "concepturi": "http://www.wikidata.org/entity/Q181011",
+                "repository": "wikidata",
+                "url": "//www.wikidata.org/wiki/Q181011",
+                "display": {
+                    "label": {
+                        "value": "per mille",
+                        "language": "en"
+                    },
+                    "description": {
+                        "value": "unit for parts per thousand",
+                        "language": "en"
+                    }
+                },
+                "label": "per mille",
+                "description": "unit for parts per thousand",
+                "match": {
+                    "type": "alias",
+                    "language": "en",
+                    "text": "permil"
+                },
+                "aliases": [
+                    "permil"
+                ]
+            },
+            {
+                "id": "Q179918",
+                "title": "Q179918",
+                "pageid": 179207,
+                "concepturi": "http://www.wikidata.org/entity/Q179918",
+                "repository": "wikidata",
+                "url": "//www.wikidata.org/wiki/Q179918",
+                "display": {
+                    "label": {
+                        "value": "permafrost",
+                        "language": "en"
+                    },
+                    "description": {
+                        "value": "soil frozen permanently (practically for a duration of at least two years)",
+                        "language": "en"
+                    }
+                },
+                "label": "permafrost",
+                "description": "soil frozen permanently (practically for a duration of at least two years)",
+                "match": {
+                    "type": "label",
+                    "language": "en",
+                    "text": "permafrost"
+                }
+            }
+        ],
+        "search-continue": 7,
+        "success": 1
+    },
+    "wiktionary": {
+        "batchcomplete": "",
+        "warnings": {
+            "extracts": {
+                "*": "HTML may be malformed and/or unbalanced and may omit inline images. Use at your own risk. Known problems are listed at https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TextExtracts#Caveats."
+            }
+        },
+        "query": {
+            "pages": {
+                "1133785": {
+                    "pageid": 1133785,
+                    "ns": 0,
+                    "title": "Perm",
+                    "extract": ""
+                }
+            }
+        }
+    },
+    "commons": {
+        "batchcomplete": "",
+        "query": {
+            "pages": {
+                "444651": {
+                    "pageid": 444651,
+                    "ns": 0,
+                    "title": "Perm"
+                }
+            }
+        }
+    }
+}
